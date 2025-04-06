@@ -69,7 +69,7 @@ Before running the project, ensure you have:
 
   
 ## 🖼 Screenshots
-
+!(https://github.com/Nandita2504/E-Book-Website/blob/main/1.png)
 
 
 ## 👥Contributors
@@ -77,9 +77,10 @@ Before running the project, ensure you have:
 Hariny SV
 
 Joshika K
+
 ## 📫Contact
 
 
 For questions, suggestions, or collaborations:
 
-📧 Email: [nanditanair2504@gmail.com]
+📧 Email: nanditanair2504@gmail.com
