@@ -70,18 +70,23 @@ Before running the project, ensure you have:
   
 ## 🖼 Screenshots
 ![Image](https://github.com/user-attachments/assets/0255ef17-5f75-4e14-ba8b-271e8a2a98e4)
+
 ![Image](https://github.com/user-attachments/assets/88d5193c-a977-4195-8e7a-5bfc61d58b87)
+
 ![Image](https://github.com/user-attachments/assets/f860685e-27dd-4f31-b3c5-6c8d5324d231)
+
 ![Image](https://github.com/user-attachments/assets/1dfcf55d-1871-4754-84db-9294114b0456)
+
 ![Image](https://github.com/user-attachments/assets/f896f54a-c20b-4089-8c26-9ae883d7d010)
-![Image](https://github.com/user-attachments/assets/e0cef173-7f3b-4dc8-a11e-d7c562474998)
+
+![Image](https://github.com/user-attachments/assets/858d95cd-5df5-4818-a8e1-05270c6dae56)
 
 
 ## 👥Contributors
 
-Hariny SV
+[Hariny SV](https://github.com/HarinyBhaskar)
 
-Joshika K
+[Joshika K](https://github.com/joshika202)
 
 ## 📫Contact
 
