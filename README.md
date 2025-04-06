@@ -69,7 +69,12 @@ Before running the project, ensure you have:
 
   
 ## 🖼 Screenshots
-!(https://github.com/Nandita2504/E-Book-Website/blob/main/1.png)
+![Image](https://github.com/user-attachments/assets/0255ef17-5f75-4e14-ba8b-271e8a2a98e4)
+![Image](https://github.com/user-attachments/assets/88d5193c-a977-4195-8e7a-5bfc61d58b87)
+![Image](https://github.com/user-attachments/assets/f860685e-27dd-4f31-b3c5-6c8d5324d231)
+![Image](https://github.com/user-attachments/assets/1dfcf55d-1871-4754-84db-9294114b0456)
+![Image](https://github.com/user-attachments/assets/f896f54a-c20b-4089-8c26-9ae883d7d010)
+![Image](https://github.com/user-attachments/assets/e0cef173-7f3b-4dc8-a11e-d7c562474998)
 
 
 ## 👥Contributors
