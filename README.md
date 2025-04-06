@@ -51,7 +51,7 @@ Before running the project, ensure you have:
 
 ✅ Node.js & npm installed
 
-📂 Installation & Setup
+#📂 Installation & Setup
 
 1️⃣ Clone the Repository
 
